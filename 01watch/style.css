@@ -1,0 +1,14 @@
+body{
+    background: url(fantacy.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.hero{
+    color: aliceblue;
+    margin-top: 20%;
+    text-align: center;
+    font-size: 62px;
+    letter-spacing: -.04em;
+    line-height: 1.2em;
+    font-family: 'Courgette', cursive;
+}
